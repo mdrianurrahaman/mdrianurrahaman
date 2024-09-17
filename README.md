@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdrianurrahaman](https://github.com/mdrianurrahaman)
 
-- 💬 Ask me about **Python , ML , DL , NLP**
+- 💬 Ask me about **Python , ML , NLP,Genaraitve Ai , Frontend Developemnet and Backend Developemnt**
 
 - 📫 How to reach me **mdrianurrahaman@gmail.com**
 
@@ -19,7 +19,10 @@
 
 - ⚡ Fun fact **I think i am funny .**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+My Linkdin:https://www.linkedin.com/in/mdrianurrahaman/
+My Contact No:+919883142425 
+</h3>
 <p align="left">
 </p>
 
