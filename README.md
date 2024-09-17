@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Rian Ur Rahaman</h1>
-<h3 align="center">I am a passionate Data Scientist</h3>
+<h3 align="center">I am a passionate Data Scientist and Full Stack Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrianurrahaman&label=Profile%20views&color=0e75b6&style=flat" alt="mdrianurrahaman" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [US_VISA_APPROVAL_PREDICTION](https://github.com/mdrianurrahaman/US-Visa-Approval-Prediction)
 
-- 🌱 I’m currently learning **Deep Learning , NLP**
+- 🌱 I’m currently learning **Genrative AI and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdrianurrahaman](https://github.com/mdrianurrahaman)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mdrianurrahaman@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ORo-006JiUrdUjgI1_-6BMJ23XDaYgQ_/view?usp=drive_link](https://drive.google.com/file/d/1ORo-006JiUrdUjgI1_-6BMJ23XDaYgQ_/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FBe5NGQLRsbPJI_tgkTbvJ5oG3ZQMgH8/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am funny .**
 
