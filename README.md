@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrianurrahaman" alt="mdrianurrahaman" /></a> </p>
 
-- 🔭 I’m currently working on [US_VISA_APPROVAL_PREDICTION](https://github.com/mdrianurrahaman/US-Visa-Approval-Prediction)
-
 - 🌱 I’m currently learning **Genrative AI and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdrianurrahaman](https://github.com/mdrianurrahaman)
